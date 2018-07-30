@@ -2,7 +2,7 @@ var customerName = "bob"
 function upperCaseCustomerName(){
 return customerName = customerName.toUpperCase();
 }
-setBestCustomer(){let bestCustomer = "not bob"
+function setBestCustomer(){let bestCustomer = "not bob"
 }
 
 
