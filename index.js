@@ -5,7 +5,9 @@ return customerName = customerName.toUpperCase();
 function setBestCustomer(){
   bestCustomer = "not bob"
 }
-
+function overwriteBestCustomer(){
+  bestCustomer = "maybe bob"
+}
 
 
 // Write your solution in this file!
