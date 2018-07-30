@@ -1,5 +1,4 @@
-var customerName
-customerName = bob
+var customerName = bob
 function upperCaseCustomerName(){
   return customerName
 }
